@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd256362-a889-42af-ad03-0cd61405c2d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/modulo7/modulo7/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo7/modulo7/src/ItemVenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo7/modulo7/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo7/modulo7/src/Venda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo7/modulo7/src/pacote1/Classe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo7/modulo7/src/pacote1/Classe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo7/modulo7/src/pacote2/Classe3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo8/modulo8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo8/modulo8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo8/modulo8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo8/modulo8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo8/modulo8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo8/modulo8/modulo8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo8/modulo8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/teste/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/teste/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/teste/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/teste/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/teste/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/teste/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/teste/teste.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo7/modulo7/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo7/modulo7/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo7/modulo7/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo7/modulo7/src/PrimeiraClasse.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/modulo7/modulo7" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2UON44BSgii4QluJX53QqlBGvxd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/stefa/OneDrive/Área de Trabalho/javaEBAC/modulo7"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd256362-a889-42af-ad03-0cd61405c2d2" name="Changes" comment="" />
+      <created>1692806472788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692806472788</updated>
+    </task>
+    <servers />
+  </component>
+</project>
